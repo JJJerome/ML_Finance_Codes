@@ -1,0 +1,10 @@
+name: gp
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pip
+  - pip:
+    - emcee
